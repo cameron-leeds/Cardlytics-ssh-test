@@ -2,4 +2,5 @@
 
 Automated SSh Access Granting/Revoking
 
-What I've written is a basic script for chef to decide whether to add someone or not.
+I've written what are the proper linux commands to create and remove access to users
+
